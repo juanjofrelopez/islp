@@ -2,4 +2,5 @@ matplotlib
 numpy
 pandas
 statsmodels
+seaborn
 ISLP
